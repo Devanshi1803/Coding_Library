@@ -5,4 +5,5 @@
 4. [sort-an-array-of-0s-1s-and-2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
 5. [move-negative-numbers-beginning-positive-end-constant-extra-space](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
 6. [union-of-two-arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
+7. [Cyclically-rotate-an-array](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
 
