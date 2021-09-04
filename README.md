@@ -6,4 +6,5 @@
 5. [move-negative-numbers-beginning-positive-end-constant-extra-space](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
 6. [union-of-two-arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
 7. [Cyclically-rotate-an-array](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
+8. [Kadane's-algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 
