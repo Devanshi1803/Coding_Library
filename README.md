@@ -9,4 +9,5 @@
 8. [Kadane's-algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 # Strings
 1. [Reverse-String](https://leetcode.com/problems/reverse-string/)
+2. [Is-Palindrome](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
 
