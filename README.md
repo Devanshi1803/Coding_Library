@@ -10,4 +10,5 @@
 # Strings
 1. [Reverse-String](https://leetcode.com/problems/reverse-string/)
 2. [Is-Palindrome](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
+3. [Are-strings-rotation-of-each-other](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)
 
