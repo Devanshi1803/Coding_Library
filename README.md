@@ -8,6 +8,7 @@
 7. [Cyclically-rotate-an-array](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
 8. [Kadane's-algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 9. [Minimum-number-of-jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
+10. [Find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)
 # Strings
 1. [Reverse-String](https://leetcode.com/problems/reverse-string/)
 2. [Is-Palindrome](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
