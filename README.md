@@ -15,4 +15,5 @@
 3. [Are-strings-rotation-of-each-other](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)
 4. [Is-given-string-is-shuffle-of-other-two](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)
 5. [Count-and-Say](https://leetcode.com/problems/count-and-say/)
-6. [permutations-of-a-given-string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
+6. [Permutations-of-a-given-string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
+7. [Word-wrap-problem](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)
