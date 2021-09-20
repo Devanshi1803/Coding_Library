@@ -18,3 +18,4 @@
 6. [Permutations-of-a-given-string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
 7. [Word-wrap-problem](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)
 8. [Edit-distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)
+9. [Next-permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)
