@@ -17,3 +17,4 @@
 5. [Count-and-Say](https://leetcode.com/problems/count-and-say/)
 6. [Permutations-of-a-given-string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
 7. [Word-wrap-problem](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)
+8. [Edit-distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)
